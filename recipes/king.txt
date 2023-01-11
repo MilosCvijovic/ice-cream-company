@@ -1,0 +1,7 @@
+King
+chocolate: 180
+strawberry: 250
+sweet cream: 450
+yogurt: 400
+almond: 60
+vanilla: 80

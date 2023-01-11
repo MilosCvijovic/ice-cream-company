@@ -1,0 +1,6 @@
+Cone
+chocolate: 160
+yogurt: 210
+sweet cream: 220
+cocoa: 15
+cones: 10

@@ -1,0 +1,6 @@
+Choco-moco
+chocolate: 120
+yogurt: 210
+sweet cream: 220
+rum: 10
+cocoa: 10

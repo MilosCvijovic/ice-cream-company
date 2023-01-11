@@ -1,0 +1,6 @@
+Capri
+strawberry: 500
+chocolate: 250
+yogurt: 250
+sweet cream: 500
+sugar: 150
